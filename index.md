@@ -1,4 +1,4 @@
-# Política de Privacidad – Pozos y Caudal
+# Política de Privacidad
 
 Esta aplicación está diseñada para recibir y mostrar datos técnicos enviados por sensores instalados en pozos de agua.
 
@@ -40,7 +40,7 @@ Los datos se muestran en gráficas y listas dentro de la app para facilitar el m
 
 Si tienes dudas o necesitas soporte, escríbenos a:
 
-**soporte@tudominio.com**
+**Tbs.desarrollo@gmail.com**
 
 ---
 
